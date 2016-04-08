@@ -7,4 +7,5 @@ My implementation of exercises of the amazing [Programming Elixir 1.2](https://p
   - [Functions-2](part1/functions-2)
   - [Functions-3](part1/functions-3)
   - [Functions-4](part1/functions-4)
+  - [Functions-5](part1/functions-5)
 
