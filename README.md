@@ -12,5 +12,5 @@ My implementation of exercises of the amazing [Programming Elixir 1.2](https://p
   - [Chapter 6 - Modules and Named Functions](part1/chap6)
     - [ModulesAndFunctions-1-2-3](part1/chap6/ModulesAndFunctions-1-2-3)
     - [ModulesAndFunctions-4-5](part1/chap6/ModulesAndFunctions-4-5)
-    
+    - [ModulesAndFunctions-6](part1/chap6/ModulesAndFunctions-6)
 
