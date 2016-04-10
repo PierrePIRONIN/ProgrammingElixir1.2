@@ -3,7 +3,7 @@
 Write a function that takes three arguments. If the first two are zero, return “FizzBuzz.” If the first is zero, return “Fizz.” If the second is zero, return “Buzz.” Otherwise return the third argument.    
 Do not use any language features that we haven’t yet covered in this book.
 
-=> My implementation
+## My implementation
 ```elixir
 iex(1)> fizz_word = fn
 ...(1)>  0, 0, _ -> "FizzBuzz"
