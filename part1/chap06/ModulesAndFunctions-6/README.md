@@ -19,10 +19,10 @@ Is it 273
 273
 ```
 Hints:
-– You may need to implement helper functions with an additional parameter (the currently guessed number).
-– The `div(a,b)` function performs integer division.
-– Guard clauses are your friends.
-– Patterns can match the low and high parts of a range ( a..b=4..8 ).
+- You may need to implement helper functions with an additional parameter (the currently guessed number).
+- The `div(a,b)` function performs integer division.
+- Guard clauses are your friends.
+- Patterns can match the low and high parts of a range ( a..b=4..8 ).
 
 => My implementation
 ```elixir
