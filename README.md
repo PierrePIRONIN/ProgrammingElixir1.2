@@ -21,5 +21,4 @@ My implementation of exercises of the amazing [Programming Elixir 1.2](https://p
   - [Chapter 10 - Processing Collections - Enum and Stream](part1/chap10)
     - [ListsAndRecursion 5](part1/chap10/ListsAndRecursion-5)
     - [ListsAndRecursion 6](part1/chap10/ListsAndRecursion-6)
-    
-
+    - [ListsAndRecursion 7](part1/chap10/ListsAndRecursion-7)
