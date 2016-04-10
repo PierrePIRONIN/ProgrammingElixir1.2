@@ -22,3 +22,4 @@ My implementation of exercises of the amazing [Programming Elixir 1.2](https://p
     - [ListsAndRecursion 5](part1/chap10/ListsAndRecursion-5)
     - [ListsAndRecursion 6](part1/chap10/ListsAndRecursion-6)
     - [ListsAndRecursion 7](part1/chap10/ListsAndRecursion-7)
+    - [ListsAndRecursion 8](part1/chap10/ListsAndRecursion-8)
