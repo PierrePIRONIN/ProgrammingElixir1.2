@@ -2,7 +2,7 @@
 
 Write a function `MyList.span(from, to)` that returns a list of the numbers from `from` up to `to` .
 
-=> My implementation
+## My implementation
 ```elixir
 iex(1)> defmodule MyList do
 ...(1)>   def span(from, to) do
