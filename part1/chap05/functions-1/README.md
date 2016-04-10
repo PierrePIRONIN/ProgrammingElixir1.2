@@ -9,6 +9,7 @@ Go into iex. Create and run the functions that do the following:
 ```elixir
 iex(1)> list_concat = fn list1, list2 -> list1 ++ list2 end
 #Function<12.54118792/2 in :erl_eval.expr/5>
+
 iex(2)> list_concat.([:a, :b], [:c,:d])
 [:a, :b, :c, :d]
 
