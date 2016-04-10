@@ -1,13 +1,14 @@
 ## Your turn : ListsAndRecursion-6
-(Hard) Write a flatten(list) function that takes a list that may contain any
-number of sublists, which themselves may contain sublists, to any depth.
+**(Hard)** Write a `flatten(list)` function that takes a list that may contain any number of sublists, which themselves may contain sublists, to any depth.
+
 It returns the elements of these lists as a flat list.
+```elixir
 iex> MyList.flatten([ 1, [ 2, 3, [4] ], 5, [[[6]]]])
 [1,2,3,4,5,6]
+```
 Hint: You may have to use Enum.reverse to get your result in the correct order.
 
-
-=> My implementation
+## My implementation
 ```elixir
 iex(1)> defmodule MyList do
 ...(1)>   def flatten(list) do
