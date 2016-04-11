@@ -23,3 +23,6 @@ My implementation of exercises of the amazing [Programming Elixir 1.2](https://p
     - [ListsAndRecursion 6](part1/chap10/ListsAndRecursion-6)
     - [ListsAndRecursion 7](part1/chap10/ListsAndRecursion-7)
     - [ListsAndRecursion 8](part1/chap10/ListsAndRecursion-8)
+  - [Chapter 11 - String and Binaries](part1/chap11)
+    - [StringAndBinaries 1](part1/chap11/StringAndBinaries-1)
+    - [StringAndBinaries 2](part1/chap11/StringAndBinaries-2)
