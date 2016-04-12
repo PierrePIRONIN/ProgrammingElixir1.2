@@ -26,3 +26,5 @@ My implementation of exercises of the amazing [Programming Elixir 1.2](https://p
   - [Chapter 11 - String and Binaries](part1/chap11)
     - [StringAndBinaries 1](part1/chap11/StringAndBinaries-1)
     - [StringAndBinaries 2](part1/chap11/StringAndBinaries-2)
+    - [StringAndBinaries 4](part1/chap11/StringAndBinaries-4)
+    - [StringAndBinaries 5](part1/chap11/StringAndBinaries-5)
