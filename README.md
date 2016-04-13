@@ -30,3 +30,5 @@ My implementation of exercises of the amazing [Programming Elixir 1.2](https://p
     - [StringAndBinaries 5](part1/chap11/StringAndBinaries-5)
     - [StringAndBinaries 6](part1/chap11/StringAndBinaries-6)
     - [StringAndBinaries 7](part1/chap11/StringAndBinaries-7)
+  - [Chapter 12 - Control Flow](part1/chap12)
+    - [ControlFlow 1](part1/chap12/ControlFlow-1)

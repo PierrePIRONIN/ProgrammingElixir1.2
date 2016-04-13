@@ -1,4 +1,4 @@
-## Your turn : StringAndBinaries-
+## Your turn : StringAndBinaries-7
 
 Chapter 7 had an exercise about calculating sales tax on page 108. 
 
