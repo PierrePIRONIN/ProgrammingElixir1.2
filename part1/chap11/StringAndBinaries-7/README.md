@@ -61,6 +61,7 @@ iex(1)> defmodule TaxComputation do
  {:convert_values, 1}}
 iex(2)> tax_rates = [ NC: 0.075, TX: 0.08 ]            
 [NC: 0.075, TX: 0.08]
+
 iex(3)> TaxComputation.compute_from_file("./data.csv", tax_rates)
 [[total_amount: 107.5, id: 123, ship_to: :NC, net_amount: 100.0],
  [total_amount: 35.5, id: 124, ship_to: :OK, net_amount: 35.5],
