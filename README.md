@@ -41,3 +41,6 @@ My implementation of exercises of the amazing [Programming Elixir 1.2](https://p
     - [WorkingWithMultipleProcesses 5](part2/chap14/WorkingWithMultipleProcesses-5)
     - [WorkingWithMultipleProcesses 8](part2/chap14/WorkingWithMultipleProcesses-8)
   - [Chapter 15 - Nodes](part2/chap15)
+    - [Nodes 1](part2/chap15/Nodes-1)
+  - [Chapter 16 - OTP Servers](part2/chap16)
+    - [OTP-Servers-1](part2/chap16/stack)
