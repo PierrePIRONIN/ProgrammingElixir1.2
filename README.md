@@ -43,4 +43,4 @@ My implementation of exercises of the amazing [Programming Elixir 1.2](https://p
   - [Chapter 15 - Nodes](part2/chap15)
     - [Nodes 1](part2/chap15/Nodes-1)
   - [Chapter 16 - OTP Servers](part2/chap16)
-    - [OTP-Servers-1](part2/chap16/stack)
+    - [OTP-Servers-1-2](part2/chap16/stack)
