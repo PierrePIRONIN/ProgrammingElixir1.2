@@ -34,3 +34,7 @@ My implementation of exercises of the amazing [Programming Elixir 1.2](https://p
     - [ControlFlow 1](part1/chap12/ControlFlow-1)
     - [ControlFlow 3](part1/chap12/ControlFlow-3)
   - [Chapter 13 - Organizing a Project](part1/chap13/issues)
+  - [Chapter 14 - Working with Multiple Processes](part1/chap14)
+    - [WorkingWithMultipleProcesses 1](part1/chap14/WorkingWithMultipleProcesses-1)
+    - [WorkingWithMultipleProcesses 3-4](part1/chap14/WorkingWithMultipleProcesses-3-4)
+    - [WorkingWithMultipleProcesses 5](part1/chap14/WorkingWithMultipleProcesses-5)
