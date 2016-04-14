@@ -40,3 +40,4 @@ My implementation of exercises of the amazing [Programming Elixir 1.2](https://p
     - [WorkingWithMultipleProcesses 3-4](part2/chap14/WorkingWithMultipleProcesses-3-4)
     - [WorkingWithMultipleProcesses 5](part2/chap14/WorkingWithMultipleProcesses-5)
     - [WorkingWithMultipleProcesses 8](part2/chap14/WorkingWithMultipleProcesses-8)
+  - [Chapter 15 - Nodes](part2/chap15)
