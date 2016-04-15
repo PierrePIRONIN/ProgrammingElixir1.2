@@ -15,7 +15,9 @@ defmodule StackSupervisor.Mixfile do
   # Type "mix help compile.app" for more information
   def application do
     [applications: [:logger],
-     mod: {StackSupervisor, []}]
+     mod: {StackSupervisor, []},
+     env: [initial_stack: [15, "cat", 9]],
+     registered: [Sequence.Server]]
   end
 
   # Dependencies can be Hex packages:
