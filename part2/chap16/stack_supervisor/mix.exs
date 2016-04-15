@@ -30,6 +30,8 @@ defmodule StackSupervisor.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    []
+    [
+        {:exrm, "~> 1.0"}
+    ]
   end
 end
